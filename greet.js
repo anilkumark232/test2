@@ -1,1 +1,3 @@
-console.log("greet");
+export function greet(){  
+  console.log("greet");
+}
