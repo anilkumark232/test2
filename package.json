@@ -1,0 +1,23 @@
+{
+  "name": "test2-test2",
+  "version": "1.0.0",
+  "description": "this is test2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilkumark232/test2.git"
+  },
+  "keywords": [
+    "test2",
+    "test"
+  ],
+  "author": "anil kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilkumark232/test2/issues"
+  },
+  "homepage": "https://github.com/anilkumark232/test2#readme"
+}
