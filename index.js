@@ -1,5 +1,10 @@
-console.log("Hello world");
-
-function greeting(){
-  console.log("good evening");
+class Greeting {
+  constructor() {
+    console.log("Good evening");
+  }
+  greet(){
+    console.log("I wont greet");
+  }
 }
+
+export default Greeting;
